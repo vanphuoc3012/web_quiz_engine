@@ -7,4 +7,4 @@ Chức năng:
 
 3. Truy xuất, sửa xoá câu hỏi dành cho tài khoản đã đăng ký. Trả về câu hỏi dưới dạng JSON cho client
 
-Công nghệ sử dụng: Java, Spring Boot, Spring Security, Spring Data JPA, Spring Validation
+Công nghệ sử dụng: Java, REST API, Spring Boot, Spring Security, Spring Data JPA, Spring Validation
